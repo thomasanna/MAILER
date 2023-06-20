@@ -1,0 +1,8 @@
+<?php
+// SMTP settings
+$SMTP_HOST='smtp.gmail.com';
+$SMTP_PORT=465;
+$SMTP_USERNAME='USER NAME HERE';
+$SMTP_PASSWORD='PASSWORD HERE';
+
+?>
